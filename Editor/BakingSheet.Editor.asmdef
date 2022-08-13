@@ -1,10 +1,12 @@
 {
-    "name": "BakingSheet.Unity",
+    "name": "BakingSheet.Editor",
     "rootNamespace": "",
     "references": [
-        "GUID:eff4759ec02784e83a3522cd45057e0b"
+        "BakingSheet"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
