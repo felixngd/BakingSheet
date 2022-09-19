@@ -2,8 +2,7 @@
     "name": "BakingSheet.ScriptableObject",
     "rootNamespace": "",
     "references": [
-        "BakingSheet",
-        "BakingSheet.Json"
+        "BakingSheet"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
